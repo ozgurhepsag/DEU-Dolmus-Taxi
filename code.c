@@ -45,7 +45,6 @@ void simulation() // Simulate the program
     {
         printf("Taxi %d [ ", i + 1);
         
-        
         for(j = 0; j < taxiSeats[i]; j++)
         {
             printf("S ");
